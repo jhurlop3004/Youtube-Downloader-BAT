@@ -11,5 +11,5 @@ Los archivos pueden ser descargados desde https://www.gyan.dev/ffmpeg/builds/ o 
 
 En caso de error de dependencias dirijase al enlace https://www.microsoft.com/en-US/download/details.aspx?id=5555.
 
-¡Advertencia! Los ejecutables youtube-dl.exe , ffmpeg.exe y ffprobe.exe no son propiedad de esta cuenta y han sido descargados desde sus respectivas paginas oficiales.
+¡Advertencia! Los ejecutables youtube-dl.exe , ffmpeg.exe y ffprobe.exe no son propiedad de esta cuenta y han sido descargadas desde sus respectivas paginas oficiales.
 
